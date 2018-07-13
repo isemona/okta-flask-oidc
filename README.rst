@@ -21,6 +21,11 @@ into a Flask web app using OpenID Connect and `Okta
 
 I wrote this to showcase how to get stuff working in a simple way.
 
+.. note::
+
+  I wrote a blog post showcasing how this example app was built. You can view it
+  here: https://developer.okta.com/blog/2018/07/12/flask-tutorial-simple-user-registration-and-login
+
 
 Installation
 ------------
