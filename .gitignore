@@ -1,3 +1,9 @@
 .env
 *.json
 *.egg-info
+.DS_Store
+env
+*.pyc
+__pycache__
+.idea/
+node_modules/
